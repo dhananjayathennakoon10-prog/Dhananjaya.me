@@ -141,7 +141,7 @@
 
   <section class="logos">
     <div class="logo-row">
-      <img src="https://via.placeholder.com/100x40" alt="logo">
+      <img src="abstract-logo-icon-design-template-elements-with-letter-z-free-vector (1).jpg" alt="logo">
       <img src="https://via.placeholder.com/100x40" alt="logo">
       <img src="https://via.placeholder.com/100x40" alt="logo">
       <img src="https://via.placeholder.com/100x40" alt="logo">
