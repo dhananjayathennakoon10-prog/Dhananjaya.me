@@ -128,7 +128,7 @@
   </nav>
 
   <div class="hero" id="home">
-    <img src="https://via.placeholder.com/420x520" alt="Profile">
+    <img src="WhatsApp Image 2026-01-22 at 11.52.54 PM.jpeg0" alt="Profile">
     <p>
       I'm <strong>Dhananjaya Thennakoon</strong>, an entrepreneur and creator focused on
       business, media, technology, and meaningful impact.
